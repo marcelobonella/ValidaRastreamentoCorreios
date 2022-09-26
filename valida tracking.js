@@ -16,7 +16,7 @@
 			}
 
 			if (digVerif == trkArr[8]){
-				return 1;
+				return 1; //sucesso
 			}
 			else{
 				return 0;
